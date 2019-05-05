@@ -3,9 +3,9 @@
 
 Look how the font is *italicized* and how it is **bold** 
 
-1- This was fun
-2- I loved OS
-3- I learned MD
+1. This was fun
+2. I loved OS
+3. I learned MD
 
 ``````
 watch -n 0.1 "dmesg | tail -n $((LINES-6))"
